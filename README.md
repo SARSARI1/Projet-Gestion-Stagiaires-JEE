@@ -26,7 +26,7 @@ L'application optimise les processus de gestion des stagiaires, offrant une plat
 - **Gestion des stages** : Suivi et affectation des stages.
 - **Statistiques** : Visualisation des données relatives aux stagiaires et stages.
 
-![Technologies Utilisées](https://via.placeholder.com/800x400?text=Technologies+Utilisées)
+
 
 ### Technologies Utilisées
 
@@ -66,7 +66,6 @@ Ce projet représente une opportunité unique d'appliquer les connaissances acqu
 ---
 
 ### Aide et Contact
-
-Pour toute question ou assistance, veuillez contacter l'équipe de développement à l'adresse suivante : [email@example.com].
+Pour toute question ou assistance, veuillez contacter l'équipe de développement à l'adresse suivante : [kaoutarsarsari@gmail.com]  [assiatourabi55@gmail.com].
 
 Merci de votre attention et bon développement !
